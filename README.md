@@ -1,4 +1,4 @@
-## BG-NBD-ve-Gamma-Gamma-ile-CLTV-Tahmini
+## BG NBD ve Gamma Gamma ile CLTV Tahmini
 
 
 #### İş Problemi
