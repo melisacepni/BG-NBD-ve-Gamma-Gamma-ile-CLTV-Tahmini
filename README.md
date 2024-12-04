@@ -2,6 +2,7 @@
 
 
 #### İş Problemi
+
 FLO satış ve pazarlama faaliyetleri için roadmap belirlemek istemektedir. Şirketin orta uzun vadeli plan yapabilmesi için var olan müşterilerin gelecekte şirkete sağlayacakları potansiyel değerin tahmin edilmesi gerekmektedir.
 
 #### Veri Seti Hikayesi
@@ -12,6 +13,7 @@ olarak yapan müşterilerin geçmiş alışveriş davranışlarından elde edile
 13 Değişken 19.945 Gözlem bulunmaktadır.
 
 ##### Değişkenler ve açıklamaları:
+
 - master_id = Eşsiz müşteri numarası 
 - order_channel = Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile)
 - last_order_channel = En son alışverişin yapıldığı kanal
